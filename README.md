@@ -2,8 +2,8 @@
 The first program on my github which says "**HelloWorld!**" to coders around the world in ***24** programming languages*.
 ***
 
-##Components
-![Programming Languages](https://github.com/caofanCPU/HelloWorld/referencePicture/ProgrammingLanguages.png)  
+##Components  
+![Programming Languages](https://github.com/caofanCPU/HelloWorld/tree/master/referencePicture/ProgrammingLanguages.png)  
 web开发排行TOP10:  
 01. Java  
 02. Python  
