@@ -1,3 +1,4 @@
+
 /**
  * [1]Java code
  */
@@ -5,7 +6,7 @@
 class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("HelloWorld! I'm CF...");
-	}
+		// è€å­è¦æµ‹è¯•	
 } 
 
 /**
@@ -56,8 +57,8 @@ class HelloWorldCSharp
 <!DOCTYPE html>  
 	<body>  
 		<?php  
-			echo "Hello,World!";            //´òÓ¡Óï¾ä    
-			echo phpinfo();                 //phpinfo()ÏµÍ³º¯Êı,Êä³ö»·¾³ĞÅÏ¢  
+			echo "Hello,World!";            //æ‰“å°è¯­å¥    
+			echo phpinfo();                 //phpinfo()ç³»ç»Ÿå‡½æ•°,è¾“å‡ºç¯å¢ƒä¿¡æ¯  
 		?>  
 	</body>  
 </html>
@@ -65,7 +66,7 @@ class HelloWorldCSharp
 /**
  * [7]JavaScript code
  */
-var sys = require("sys");	#µ¼ÈësysÄ£¿é
+var sys = require("sys");	#å¯¼å…¥sysæ¨¡å—
 sys.puts("HelloWorld! I'm CF...");
 
 /**
@@ -82,18 +83,18 @@ print("HelloWorld! I'm CF...")
 /**
  * [10]SQL code
  */
-CREATE TABLE MESSAGE (TEXT CHAR(15));            #´´½¨±í  
-INSERT INTO MESSAGE (TEXT) VALUES ('Hello, world!');  #²åÈë±í  
-SELECT TEXT FROM MESSAGE;                             #²éÑ¯±í  
-DROP TABLE MESSAGE;                                   #É¾³ı±í               
+CREATE TABLE MESSAGE (TEXT CHAR(15));            #åˆ›å»ºè¡¨  
+INSERT INTO MESSAGE (TEXT) VALUES ('Hello, world!');  #æ’å…¥è¡¨  
+SELECT TEXT FROM MESSAGE;                             #æŸ¥è¯¢è¡¨  
+DROP TABLE MESSAGE;                                   #åˆ é™¤è¡¨               
 
 /**
  * [11]Perl code
  */
-#!C:\Perl\bin		#WindowsÆ½Ì¨
-#!/usr/bin/env perl	#LinuxÆ½Ì¨
+#!C:\Perl\bin		#Windowså¹³å°
+#!/usr/bin/env perl	#Linuxå¹³å°
 print "HelloWorld! I'm CF..."
-#Perl °æ±¾5.10¼°ÒÔÉÏ
+#Perl ç‰ˆæœ¬5.10åŠä»¥ä¸Š
 use 5.010;
 say "HelloWorld!";
 
@@ -111,11 +112,11 @@ say "HelloWorld!";
 /**
  * [13]VB code
  */
-Module HelloWorld						'Ä£¿éÆğÊ¼
-	Sub Main()							'³ÌĞòÈë¿Úº¯Êı
-		MsgBox("HelloWorld! I'm CF...")	'¼ÆËã»úÆÁÄ»ÏÔÊ¾ĞÅÏ¢
-	End Sub								'³ÌĞò½áÎ²
-End Module								'Ä£¿é½áÎ²
+Module HelloWorld						'æ¨¡å—èµ·å§‹
+	Sub Main()							'ç¨‹åºå…¥å£å‡½æ•°
+		MsgBox("HelloWorld! I'm CF...")	'è®¡ç®—æœºå±å¹•æ˜¾ç¤ºä¿¡æ¯
+	End Sub								'ç¨‹åºç»“å°¾
+End Module								'æ¨¡å—ç»“å°¾
 
 /**
  * [14]Scala code
@@ -131,11 +132,11 @@ object HelloWorld
 /**
  * [15]Shell code
  */
-#°²×°ÁËMinGWºÍMSYSµÄWindowsÆ½Ì¨
+#å®‰è£…äº†MinGWå’ŒMSYSçš„Windowså¹³å°
 echo "HelloWorld!"
-#LinuxÆ½Ì¨
+#Linuxå¹³å°
 printf "HelloWorld!"
-#´úÂëĞ´ÔÚÎÄ¼şÖĞ
+#ä»£ç å†™åœ¨æ–‡ä»¶ä¸­
 chmod +x HelloWorld.sh
 ./HelloWorld.sh
 
@@ -164,10 +165,10 @@ end program HelloWorld
 /**
  * [18]TCL code
  */
-#ÃüÁîĞĞ½»»¥·½Ê½
+#å‘½ä»¤è¡Œäº¤äº’æ–¹å¼
 % puts "HelloWorld!"
 % exit
-#ÎÄ¼şÔËĞĞ·½Ê½
+#æ–‡ä»¶è¿è¡Œæ–¹å¼
 #!usr/local/bin/tcl
 puts "HelloWorld!"
 
