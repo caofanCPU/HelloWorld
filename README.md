@@ -2,7 +2,7 @@
 &ensp;&emsp;&ensp;&emsp;The first program on my github which says "**HelloWorld!**" to coders around the world in ***24** programming languages*.
 ***
 
-##Components  
+## Components  
 
 ![Programming Languages](http://i1.piimg.com/588926/4c461d06ba4b966a.png)  
 
@@ -31,5 +31,5 @@
 09. Scheme  
 10. ActionScript  
 ***  
-##Coding  
+## Coding  
 &ensp;&emsp;&ensp;&emsp;Having gotten some programming skills and experience, I'll learn more languages in the list which includes **[Java, Shell, SQL, Python, Scala, R, and Go]**. During the past 4 years, I've payed my attention to **Mathematical Logic Programming**. Using *C/VHDL/ARM* to touch embedded programming and using *Matlab* to touch algorithm simulation, for example, I've achieved some system designs about [**LED Screen**](https://github.com/caofanCPU/PassedCode/tree/master/ASM/LED显示屏(51单片机)), [**Calculator**](https://github.com/caofanCPU/PassedCode/tree/master/ARM/Calculator(ARM)), [**Digital Clock**](https://github.com/caofanCPU/PassedCode/tree/master/EDA/数字钟), and [**Curve Fitting**](https://github.com/caofanCPU/ThreeParameterSpline). With the popularity of *Big Data*, *Machine Learning* and *Artificial Intelligence*, I'll march **Linux System**, **Database Operator** and **Constant Processing**. God speed and good luck to coders.
